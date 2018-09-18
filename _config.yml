@@ -25,11 +25,11 @@ description: Tom Booker's website
 navbar-links:
   About Me: "AboutMe"
   Resources:
-    - Website Template: "http://deanattali.com/beautiful-jekyll/"
+    - WebsiteTemplate: "http://deanattali.com/beautiful-jekyll/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/smallzigzag.png"
+avatar: "/img/lilzigzags.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
