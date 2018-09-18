@@ -38,15 +38,15 @@ avatar: "/img/lilzigzags.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: "#9986A5"
-navbar-text-col: "#79402E"
-navbar-children-col: "#CCBA72"
+navbar-col: "#B6854D"
+navbar-text-col: "#39312F"
+navbar-children-col: "#EAD3BF"
 page-col: "#D9D0D3"
-link-col: "#0F0D0E"
+link-col: "#9986A5"
 hover-col: "#79402E"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#0F0D0E"
+footer-link-col: "#79402E"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -80,7 +80,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://tbooker.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
