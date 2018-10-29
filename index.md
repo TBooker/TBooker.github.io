@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tom
-subtitle: Evolutionary Biologist
+title: Tom Booker
+subtitle: Evolutionary Genetics
 css: "/css/index.css"
 meta-title: "Tom Booker"
 meta-description: "Postdoctoral Research Fellow at the University of British Columbia"
