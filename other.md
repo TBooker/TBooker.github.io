@@ -9,4 +9,3 @@ My brothers [Ned](https://www.researchgate.net/profile/Edward_Booker) and [Sam](
 Tom Booker is a pretty generic name, if you're looking for the Horse Whisperer you've come to the wrong place. This is not me:
 
 ![alt text](/img/TomBooker.jpg "This is not me")
-
