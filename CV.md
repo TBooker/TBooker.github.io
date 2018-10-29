@@ -10,4 +10,5 @@ Here is a potted CV:
 - MSc (Distinction) Evolutionary Genetics - University of Edinburgh - 2013-2014
 - PhD Evolutionary Genetics - University of Edinburgh - Supervised by Peter Keightley and Brian Charlesworth
 
-You can check out my full CV if you want
+
+[You can check out my full CV if you want](/files/Academic_CV.pdf)
