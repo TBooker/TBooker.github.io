@@ -6,8 +6,8 @@ subtitle: Tom's academic CV
 
 Here is a potted CV:
 
-- BSc Hons (First) - Ecology - University of Stirling
-- MSc (Distinction) - Evolutionary Genetics - University of Edinburgh
-- PhD - Evolutionary Genetics - University of Edinburgh - Supervised by Peter Keightley
+- BSc Hons (First) Ecology - University of Stirling - 2009-2013
+- MSc (Distinction) Evolutionary Genetics - University of Edinburgh - 2013-2014
+- PhD Evolutionary Genetics - University of Edinburgh - Supervised by Peter Keightley and Brian Charlesworth
 
-You can download my full CV if you want
+You can check out my full CV if you want
