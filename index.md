@@ -11,3 +11,4 @@ bigimg:
   - "/img/frontispiece/beerLabel.jpg" : "My brother's birthday brew"
 ---
 
+If you want to email me, you can reach me at (my last name)[at]zoology[dot]ubc[dot]ca 
