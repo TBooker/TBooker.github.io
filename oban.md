@@ -1,5 +1,5 @@
 ---
-layout: oban
+layout: page
 title: Oban
 subtitle: A really good dog
 ---
