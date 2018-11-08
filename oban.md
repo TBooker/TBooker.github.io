@@ -12,5 +12,3 @@ My wife and I have a really cool dog named Oban. I often think that she is the p
 My Mum and Dad have a nice dog too!
 ![](/img/other/GinTongue.Jpg)
 
-In other news, we made a nice beer for my eldest brother's birthday  ![](/img/other/beerLabel.Jpg)
-
