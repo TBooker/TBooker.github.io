@@ -19,3 +19,10 @@ If you can't get hold of any of the papers below, ~~I hear sci-hub is pretty coo
 **Genetics** 203: 975-984. [pdf](/papers/keightley-et-al-genetics-2016.pdf)
 
 5. Booker T., Ness, R. W. and Charlesworth, D. *Molecular evolution: breakthroughs and mysteries in Batesian mimicry*. **Current Biology**. 25: 506-508.
+
+
+## PhD Thesis
+
+In case any one is interested, you can take a look at my [PhD thesis](/papers/thesis.pdf).
+
+In case you are interested, I used a latex template from the [University of Edinburgh's Geoscience department](https://www.ed.ac.uk/geosciences/intranet/it/faq/latexthesis).
