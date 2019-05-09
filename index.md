@@ -11,4 +11,6 @@ bigimg:
 
 ---
 
-If you want to email me, you can reach me at (my last name)[at]zoology[dot]ubc[dot]ca 
+If you want to email me, you can reach me at (my last name)[at]zoology[dot]ubc[dot]ca
+
+I think Phishers may be wise to that trick by now, but I hope not
