@@ -4,8 +4,19 @@ title: Research
 subtitle:  
 ---
 
-Broadly speaking, I am interested in natural selection and how it can be detected using DNA sequence data. 
+Broadly speaking, I am interested in the study of evolution, of how and why the amazing variety of lifeforms we see all around us came to be the way they are. Mutation, recombination, genetic drift, gene flow and selection are all fundamentally important factors which can influence evolution. Understanding the interplay of these various processes is my main research interest.
 
+More specifically, I am interested in the process of selection and how we can leverage DNA sequence data to make inferences about selective pressures faced by organisms. 
+
+A lot of the research I have carried out has been on the house mouse (Mus musculus). For research in evolutionary genetics, mice are an excellent model system. There are very well developed genetic/genomic resources available for mice and, in addition, they have naturally very large population sizes which, for a variety of reasons, makes them suitable for evolutionary analysis.
+
+I am currently a post-doc at the University of British Columbia working with Mike Whitlock and Sam Yeaman at the University of Calgary. I am working as part of the CoAdapTree project, which aims at identifying genes involved in local adaptation in a number of coniferous tree species. Under climate change, different tree species may face similar challenges, for example, changing temperatures and precipitation levels may adversely  
+
+My role in the project is to help develop methods that can be used to measure the extent of local adaptation in different species and to quantify the extent to which different evolutionary have used the
+
+
+
+<<<<<<< Updated upstream
 If you spend enough time with me, I'm bound to start talking about selective sweeps and background selection. I am very interested in how these two processes affect variation in genetic diversity in eukaryotes, and specifically, what their footprints can tell us about moleular evolution.
 
 
@@ -23,3 +34,5 @@ This project carries on where my 2018 MBE paper left off. In that paper, one of 
 
 This work is in collaboration with researchers at the Universities of Edinburgh and Cambridge.
 
+=======
+>>>>>>> Stashed changes
