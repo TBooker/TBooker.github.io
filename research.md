@@ -21,11 +21,14 @@ If you spend enough time with me, I'm bound to start talking about selective swe
 
 ### Global adaptation in structured populations
 
-I am currently working on a project looking at how global adaptation affects out ability to detect selecton using genome scans. In particular, we are asking whether recurrent positive selection generates *Fst* outliers in genome scans aimed at identifying local adaptation. So far we have found that, yes, global adaptation can indeed influence genomes scans. The plot below shows a Manhattan plot for a parapatric population pair, the   
+I am currently working on a project looking at how global adaptation affects out ability to detect selecton using genome scans. In particular, we are asking whether recurrent positive selection generates *Fst* outliers in genome scans aimed at identifying local adaptation. So far we have found that, yes, global adaptation can indeed influence genomes scans. The plot below shows an *Fst* Manhattan plot for a parapatric population pair.
 
-![](/img/other/combined_3panel.png "Global adaptation in structured populations")
 
-However, the extent to which it does depends on the distribution of fitness effects for new beneficial mutations and that is pretty much unknown for natural populations.
+![](/img/other/combined_3panel.jpg "Global adaptation in structured populations")
+
+Selective sweeps of globally beneficial alleles can cause epehemeral peaks of *Fst* (see Slatkin and Wiehe 1998 *Genet. Res.*; Kim and Maruki 2011 *Genetics*; Bierne 2012 *Evolution*; Feder *et al* 2019 - *currently BioRXiv*). The bottom left panel on the above figure shows the change in allele frequency over time for several beneficial mutations (the solid and dashed lines indicate the two populations of the parapatric pair). The bottom-right panel shows *Fst* over time for an analysis window which contains the genes in which the selected alleles occurred. The plot shows the traces for a handful of beneficial mutations, I have removed most to keep the plot tidy, but even with this sample, it is clear that there is a reasonable chance of observing an ephemeral *Fst* peak at any point in time. 
+ 
+The extent to which it does depends on the distribution of fitness effects for new beneficial mutations and that is pretty much unknown for natural populations.
 
 This project is part of my postdoc with Mike Whitlock at UBC and Sam Yeaman at the University of Calgary.
 
