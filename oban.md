@@ -9,6 +9,8 @@ I have a really cool dog named Oban. I often think that she is the pinnacle of h
 
 ![](/img/other/OBANFRISBEE.JPG "She guards the Frisbee (TM)")
 
+![](/img/other/OBANFRISBEE.JPG "She guards the Frisbee (TM) and the Korn")
+
 ![](/img/other/OBANHUG.JPG "She keeps me company")
 
 ![](/img/other/ObanSleepy.JPG "She sleeps")
