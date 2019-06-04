@@ -32,7 +32,7 @@ The extent to which it does depends on the distribution of fitness effects for n
 
 This project is part of my postdoc with Mike Whitlock at UBC and Sam Yeaman at the University of Calgary.
 
-### Adaptation molecular evolution in murid rodents
+### Adaptive molecular evolution in murid rodents
 
 ![](/img/research/exons_divFam_genetic_castaneus.png "Trough Mania!")
 
