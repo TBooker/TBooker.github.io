@@ -31,7 +31,7 @@ The extent to which it does depends on the distribution of fitness effects for n
 
 A similar process happens in spatially extended populations. As the "wave of advance" of an advantageous allele spreads through a population, it may affect linked sites. In such cases, allele frequencies at linked neutral sites may resemble clines. The GIF below shows the process I've described using the results of a two-locus simulation. The advantageous allele (coloured in brown), spreads through the population in a wave-like fashion. The linked, neutral allele spreads is affected by this and spreads in tandem. Fst is calculated between demes 100 and 400.
 
-![](/img/steppingStoneFst.gif "The wave of advance of a beneficial allele and Fst at a linked site")
+![](/img/research/steppingStoneFst.gif "The wave of advance of a beneficial allele and Fst at a linked site")
 
 This project is part of my postdoc with Mike Whitlock at UBC and Sam Yeaman at the University of Calgary.
 
