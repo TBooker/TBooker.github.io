@@ -8,7 +8,7 @@ I am a smart, cool dog named Oban. I often think that I am the pinnacle of human
 
 I have been borrowing Tom's laptop for some of my own research. [Check it out here](https://tbooker.shinyapps.io/ObanzCheezeApp/)
 
-I have tried lloking at my research on Arya's iPhone, but that didn't work well.
+I have tried looking at my research on Arya's iPhone, but that didn't work well.
 
 ![](/img/other/OBANCOOLPUP.JPG "Humankind's greatest achievement")
 
