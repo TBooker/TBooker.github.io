@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Oban
-subtitle: I'm a really good dog
+subtitle: A really good dog
 ---
 
-I am a smart, cool dog named Oban. I often think that I am the pinnacle of human achievement.
+I have a really cool dog named Oban. I often think that she is the pinnacle of human achievement.
 
-I have been borrowing Tom's laptop for some of my own research. [Check it out here](https://tbooker.shinyapps.io/ObanzCheezeApp/)
-
-I have tried looking at my research on Arya's iPhone, but that didn't work well.
+Oban has been borrowing my laptop for some of her own research. [Check it out here](https://tbooker.shinyapps.io/ObanzCheezeApp/)
 
 ![](/img/other/OBANCOOLPUP.JPG "Humankind's greatest achievement")
 
