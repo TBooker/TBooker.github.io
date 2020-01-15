@@ -6,8 +6,6 @@ subtitle: A really good dog
 
 I have a really cool dog named Oban. I often think that she is the pinnacle of human achievement.
 
-Oban has been borrowing my laptop for some of her own research. [Check it out here](https://tbooker.shinyapps.io/ObanzCheezeApp/)
-
 ![](/img/other/OBANCOOLPUP.JPG "Humankind's greatest achievement")
 
 ![](/img/other/OBAN_BERRY.jpg "She guards me and the berries")
