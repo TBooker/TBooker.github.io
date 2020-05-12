@@ -4,7 +4,7 @@ title: Publications
 subtitle:  
 ---
 
-I update my Google Scholar more frequently than this page.
+[For an up-to-date list, check out my Google Scholar page.](https://scholar.google.com/citations?user=hdnv9D0AAAAJ&hl=en)
 
 I try to publish open access when possible, but if you can't get hold of any of the papers below, get in touch and I'd be more than to send you a copy.
 
