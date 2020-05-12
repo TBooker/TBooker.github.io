@@ -19,7 +19,9 @@ If you spend enough time with me, I'm bound to start talking about selective swe
 
 ### Incorporating linkage into genome scans
 
-Fill in later...
+Fill in details later...
+![](/img/research/threePanelFigure.png "Fst against recombination")
+
 
 ### Global adaptation in structured populations
 
