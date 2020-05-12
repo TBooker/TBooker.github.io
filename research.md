@@ -6,9 +6,7 @@ subtitle:
 
 Broadly speaking, I am interested in the study of evolution, of how and why the amazing variety of lifeforms we see all around us came to be the way they are. Mutation, recombination, genetic drift, gene flow and selection are all fundamentally important factors which can influence evolution. Understanding the interplay of these various processes is my main research interest.
 
-More specifically, I am interested in the process of selection and how we can leverage DNA sequence data to make inferences about selective pressures faced by organisms. 
-
-A lot of the research I have carried out has been on the house mouse (*Mus musculus*). For research in evolutionary genetics, mice are an excellent model system. There are very well developed genetic/genomic resources available for mice and, in addition, they have naturally very large population sizes which, for a variety of reasons, makes them suitable for evolutionary analysis.
+More specifically, I am interested in the process of selection and how we can leverage DNA sequence data to make inferences about selective pressures faced by various organisms. 
 
 I am currently a post-doc at the University of British Columbia working with Mike Whitlock and Sam Yeaman at the University of Calgary. I am working as part of the CoAdapTree project (http://coadaptree.forestry.ubc.ca/). One of the aims of CoAdapTree is to identify genes involved in local adaptation in several coniferous tree species. Under climate change, tree species may face novel  environments, ones for which they are not adapted. As such, identifying the genes which underly locally adapted phenotypes may help guide the development of programs of assisted gene flow. 
 
@@ -19,9 +17,13 @@ If you spend enough time with me, I'm bound to start talking about selective swe
 
 ## Current Projects
 
+### Incorporating linkage into genome scans
+
+Fill in later...
+
 ### Global adaptation in structured populations
 
-I am currently working on a project looking at how global adaptation affects out ability to detect selecton using genome scans. In particular, we are asking whether recurrent positive selection generates *Fst* outliers in genome scans aimed at identifying local adaptation. So far we have found that, yes, global adaptation can indeed influence genomes scans. The plot below shows an *Fst* Manhattan plot for a parapatric population pair.
+In this project, we asked whether recurrent positive selection generates *Fst* outliers in genome scans aimed at identifying local adaptation. We have found that, yes, global adaptation can indeed influence genomes scans and that under rates of adaptation that are consistant with published values, such outliers may be a feature of the genomic landscape of *Fst*. The plot below shows an *Fst* Manhattan plot for a parapatric population pair.
 
 ![](/img/combined_3panelColours.gif "Global adaptation in structured populations")
 
