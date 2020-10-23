@@ -23,7 +23,7 @@ I try to publish open access when possible, but if you can't get hold of any of 
 . Booker, TR, Yeaman, S, Whitlock, MC. Variation in recombination rate affects detection of outliers in genome scans under neutrality. Molecular Ecology, 2020 
 	This paper actually made the cover of the journal and a nice [Perpective was written about it too](https://doi.org/10.1111/mec.15690)
 
-. Byers, K. A., Booker, T. R., Combs, M., Himsworth, C. G., Munshi‐South, J., Patrick, D. M., & Whitlock, M. C. (2020). *Using genetic relatedness to understand heterogeneous distributions of urban rat‐associated pathogens**. Evolutionary Applications.
+. Byers, K. A., Booker, T. R., Combs, M., Himsworth, C. G., Munshi‐South, J., Patrick, D. M., & Whitlock, M. C. (2020). *Using genetic relatedness to understand heterogeneous distributions of urban rat‐associated pathogens*. Evolutionary Applications.
 
 . Booker, T. R.  *Inferring Parameters of the Distribution of Fitness Effects of New Mutations When Beneficial Mutations Are Strongly Advantageous and Rare* G3: GENES, GENOMES, GENETICS Early online May 5, 2020
 
