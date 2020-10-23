@@ -6,21 +6,24 @@ subtitle:
 
 [For an up-to-date list, check out my Google Scholar page.](https://scholar.google.com/citations?user=hdnv9D0AAAAJ&hl=en)
 
-I try to publish open access when possible, but if you can't get hold of any of the papers below, get in touch and I'd be more than to send you a copy.
+I try to publish open access when possible, but if you can't get hold of any of the papers below, get in touch and I'd be more than happy to send you a copy.
 
 
- ~~I've also head that sci-hub is pretty cool~~.
+ ~~I've also head that sci-hub is pretty cool~~
 
 
 ### Preprints/Submitted
 
-. Booker, T. R., Yeaman, S., & Whitlock, M.. *Variation in recombination rate affects detection of FST outliers under neutrality.*, **Submitted** https://www.biorxiv.org/content/10.1101/2020.02.06.937813v2
-
-. Booker, T. R., Yeaman, S. and Whitlock, M. C. *Global adaptation confounds the search for local adaptation*, **Submitted**, https://www.biorxiv.org/content/10.1101/742247v1
-
-. Byers K. A., Booker T. R., Combs M., Himsworth C. G., Munshi-South J., Patrick D.M., Whitlock M.C.. *Using genetic relatedness to understand heterogeneous distributions of urban rat-associated pathogens.** (Submitted) 
+. Booker, T. R., Yeaman, S. and Whitlock, M. C. *Global adaptation confounds the search for local adaptation*, **Accepted at Evolution Letters**, https://www.biorxiv.org/content/10.1101/742247v1
+ 
+. Lind, B. M., Lu, M., Vidakovic, D., Singh, P., Booker, T. R., Yeaman, S., & Aitken, S. (2020). Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. bioRxiv.
 
 ### Published
+
+. Booker, TR, Yeaman, S, Whitlock, MC. Variation in recombination rate affects detection of outliers in genome scans under neutrality. Molecular Ecology, 2020 
+	This paper actually made the cover of the journal and a nice [Perpective was written about it too](https://doi.org/10.1111/mec.15690)
+
+. Byers, K. A., Booker, T. R., Combs, M., Himsworth, C. G., Munshi‐South, J., Patrick, D. M., & Whitlock, M. C. (2020). *Using genetic relatedness to understand heterogeneous distributions of urban rat‐associated pathogens**. Evolutionary Applications.
 
 . Booker, T. R.  *Inferring Parameters of the Distribution of Fitness Effects of New Mutations When Beneficial Mutations Are Strongly Advantageous and Rare* G3: GENES, GENOMES, GENETICS Early online May 5, 2020
 

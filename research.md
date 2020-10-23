@@ -8,18 +8,20 @@ Broadly speaking, I am interested in the study of evolution, of how and why the 
 
 More specifically, I am interested in the process of selection and how we can leverage DNA sequence data to make inferences about selective pressures faced by various organisms. 
 
-I am currently a post-doc at the University of British Columbia working with Mike Whitlock and Sam Yeaman at the University of Calgary. I am working as part of the CoAdapTree project (http://coadaptree.forestry.ubc.ca/). One of the aims of CoAdapTree is to identify genes involved in local adaptation in several coniferous tree species. Under climate change, tree species may face novel  environments, ones for which they are not adapted. As such, identifying the genes which underly locally adapted phenotypes may help guide the development of programs of assisted gene flow. 
+I am currently the Bioinformatics Postdoctoral Fellow in the Beatty Biodiversity Research Centre at the University of British Columbia. I work with Mike Whitlock at UBC and Sam Yeaman at the University of Calgary and am part of the [CoAdapTree project](http://coadaptree.forestry.ubc.ca/).
 
-My role in the CoAdapTree project is to help develop and test methods which can be used to detect local adaptation and to quantify the extent to which evolutionarily distinct lineages have used the routes to adapt to variable climates. 
+One of the aims of CoAdapTree is to identify genes involved in local adaptation in several coniferous tree species. Under climate change, tree species may face novel environments, ones for which they are not adapted. As such, identifying the genes which underly locally adapted phenotypes may help guide the development of programs of assisted gene flow. My role in the CoAdapTree project is to help develop and test methods which can be used to detect local adaptation and to quantify the extent to which evolutionarily distinct lineages have used the routes to adapt to variable climates. 
 
-If you spend enough time with me, I'm bound to start talking about selective sweeps and background selection. I am very interested in how these two processes affect variation in genetic diversity in eukaryotes, and specifically, what their footprints can tell us about moleular evolution.
+If you spend enough time with me, I'm bound to start talking about selective sweeps and background selection. I am very interested in how these two processes affect variation in genetic diversity in eukaryotes, and specifically, what their footprints can tell us about molecular evolution. I did my PhD with Peter Keightley where I tried to estimate parameters of selection in wild mice, and I have continued that work since moving to Canada.
 
 
 ## Current Projects
 
 ### Incorporating linkage into genome scans
 
-Fill in details later...
+Genome scans have the potential to help us understand adaptation. Being able to identify the genomic regions involved in adaptation can lead to testable hypotheses about the molecular changes that have allowed species to adapt to their environments. There are cases where this is relatively straightforward, when only a small number of strongly selected loci contribute to adaptation, such as in the case of the **Eda** locus in the three-spine stickleback. However, as we move from a monogenic or oligogenic basis of adaptation to a more polygenic architecture, things get a bit more tricky and interpreting the results of genome scans can be difficult. Add in the complications of a non-equilibrium population history, or 
+
+We have recently published a paper on why it is important to consider recombination rate variation when performing genome scans. 
 ![](/img/research/threePanelFigure.png "Fst against recombination")
 
 
