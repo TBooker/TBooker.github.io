@@ -6,7 +6,9 @@ subtitle: Tom's academic CV
 
 Here is a potted CV:
 
-- PostDoctoral Research Fellow - University of British Columbia - 2018 - Present
+- Bioinformatics Postdoctoral Fellow - University of British Columbia - 2020 - 2023
+
+- PostDoctoral Research Fellow - University of British Columbia - 2018 - 2020
 ... Supervised by Mike Whitlock and Sam Yeaman 
 
 - PhD Evolutionary Genetics - University of Edinburgh 
