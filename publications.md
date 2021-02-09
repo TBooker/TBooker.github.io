@@ -4,23 +4,23 @@ title: Publications
 subtitle:  
 ---
 
-[For an up-to-date list, check out my Google Scholar page.](https://scholar.google.com/citations?user=hdnv9D0AAAAJ&hl=en)
+[Check out my Google Scholar page.](https://scholar.google.com/citations?user=hdnv9D0AAAAJ&hl=en)
 
-I try to publish open access when possible, but if you can't get hold of any of the papers below, get in touch and I'd be more than happy to send you a copy.
-
+I try to publish open access when possible and deposit all my first author papers on BioRXiv. If you can't get hold of any of my publications, get in touch and I'd be more than happy to send you a copy.
 
  ~~I've also head that sci-hub is pretty cool~~
 
 
 ### Preprints/Submitted
 
-. Booker, T. R., Yeaman, S. and Whitlock, M. C. *Global adaptation confounds the search for local adaptation*, **Accepted at Evolution Letters**, https://www.biorxiv.org/content/10.1101/742247v1
  
-. Lind, B. M., Lu, M., Vidakovic, D., Singh, P., Booker, T. R., Yeaman, S., & Aitken, S. (2020). Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. bioRxiv.
+. Lind, B. M., Lu, M., Vidakovic, D., Singh, P., Booker, T. R., Yeaman, S., & Aitken, S. (2020). *Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species**.  **Accepted at Molecular Ecology Resources**.
 
 ### Published
 
-. Booker, TR, Yeaman, S, Whitlock, MC. Variation in recombination rate affects detection of outliers in genome scans under neutrality. Molecular Ecology, 2020 
+. Booker, T. R., Yeaman, S. and Whitlock, M. C. *Global adaptation complicates the interpretation of genome scans for local adaptation**. Evolution Letters 5 (1), 4-15 
+
+. Booker, TR, Yeaman, S, Whitlock, MC. *Variation in recombination rate affects detection of outliers in genome scans under neutrality**. Molecular Ecology, 2020 
 	This paper actually made the cover of the journal and a nice [Perpective was written about it too](https://doi.org/10.1111/mec.15690)
 
 . Byers, K. A., Booker, T. R., Combs, M., Himsworth, C. G., Munshi‐South, J., Patrick, D. M., & Whitlock, M. C. (2020). *Using genetic relatedness to understand heterogeneous distributions of urban rat‐associated pathogens*. Evolutionary Applications.
