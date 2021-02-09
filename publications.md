@@ -14,18 +14,18 @@ I try to publish open access when possible and deposit all my first author paper
 ### Preprints/Submitted
 
  
-. Lind, B. M., Lu, M., Vidakovic, D., Singh, P., Booker, T. R., Yeaman, S., & Aitken, S. (2020). *Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species**.  **Accepted at Molecular Ecology Resources**.
+. Lind, B. M., Lu, M., Vidakovic, D., Singh, P., Booker, T. R., Yeaman, S., & Aitken, S. (2020). *Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species*.  **Accepted at Molecular Ecology Resources**.
 
 ### Published
 
-. Booker, T. R., Yeaman, S. and Whitlock, M. C. *Global adaptation complicates the interpretation of genome scans for local adaptation**. Evolution Letters 5 (1), 4-15 
+. Booker, T. R., Yeaman, S. and Whitlock, M. C. *Global adaptation complicates the interpretation of genome scans for local adaptation*. **Evolution Letters** 5 (1), 4-15 
 
-. Booker, TR, Yeaman, S, Whitlock, MC. *Variation in recombination rate affects detection of outliers in genome scans under neutrality**. Molecular Ecology, 2020 
+. Booker, TR, Yeaman, S, Whitlock, MC. *Variation in recombination rate affects detection of outliers in genome scans under neutrality*. ***Molecular Ecology***, 2020 
 	This paper actually made the cover of the journal and a nice [Perpective was written about it too](https://doi.org/10.1111/mec.15690)
 
-. Byers, K. A., Booker, T. R., Combs, M., Himsworth, C. G., Munshi‐South, J., Patrick, D. M., & Whitlock, M. C. (2020). *Using genetic relatedness to understand heterogeneous distributions of urban rat‐associated pathogens*. Evolutionary Applications.
+. Byers, K. A., Booker, T. R., Combs, M., Himsworth, C. G., Munshi‐South, J., Patrick, D. M., & Whitlock, M. C. (2020). *Using genetic relatedness to understand heterogeneous distributions of urban rat‐associated pathogens*. **Evolutionary Applications**.
 
-. Booker, T. R.  *Inferring Parameters of the Distribution of Fitness Effects of New Mutations When Beneficial Mutations Are Strongly Advantageous and Rare* G3: GENES, GENOMES, GENETICS Early online May 5, 2020
+. Booker, T. R.  (2020) *Inferring Parameters of the Distribution of Fitness Effects of New Mutations When Beneficial Mutations Are Strongly Advantageous and Rare* **G3: GENES, GENOMES, GENETICS** 10 (7), 2317-2326
 
 . Booker, T. R., Keightley, P. D.; *Understanding the factors that shape patterns of nucleotide diversity in the house mouse genome*, **Molecular Biology and Evolution**, , [msy188](https://doi.org/10.1093/molbev/msy188 )
 
